@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://new_user_1989:kQJjBt0rbjtmy5qg@cluster0.xmpqn.mongodb.net/devConnect?retryWrites=true&w=majority",
+    "JWTsecret": "MySecretToken"
+}
